@@ -1,0 +1,129 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595.28 841.89]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+    >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Length 2447
+>>
+stream
+BT
+/F1 22 Tf
+50 780 Td
+(NEHA VATS) Tj
+/F1 12 Tf
+0 -20 Td
+(Aspiring Software Engineer | MERN Stack Developer) Tj
+/F1 10 Tf
+0 -16 Td
+(Email: neha.vats.9896@gmail.com | Phone: +91-8168517425 | Sonipat, Haryana) Tj
+0 -14 Td
+(GitHub: github.com/Neha12Sharma | LeetCode: leetcode.com/u/Neha8168/ | HackerRank: hackerrank.com/profile/neha_vats_9896) Tj
+0 -24 Td
+/F1 14 Tf
+(EDUCATION) Tj
+/F1 10 Tf
+0 -16 Td
+(B.Tech in Computer Science & Engineering - Geeta University, Panipat [2023 - 2027]) Tj
+0 -14 Td
+(Senior Secondary [12th] - Ozone International School, Chiri [2022 - 2023]) Tj
+0 -14 Td
+(Secondary [10th] - Ozone International School, Chiri [2020 - 2021]) Tj
+0 -24 Td
+/F1 14 Tf
+(WORK EXPERIENCE & INTERNSHIPS) Tj
+/F1 11 Tf
+0 -16 Td
+(1. MERN Stack Developer Intern - Excellence Technology Pvt. Ltd., Mohali [June 2026 - July 2026]) Tj
+/F1 9 Tf
+0 -13 Td
+(- Developed full-stack MERN applications, contributing across frontend and backend layers.) Tj
+0 -12 Td
+(- Implemented RESTful APIs, JWT token authentication, and MongoDB schema architecture.) Tj
+/F1 11 Tf
+0 -16 Td
+(2. Full Stack Developer Intern - Coding Blocks, Panipat [June 2025 - August 2025]) Tj
+/F1 9 Tf
+0 -13 Td
+(- Designed end-to-end web apps with React.js, Express.js, Node.js, and MongoDB.) Tj
+0 -12 Td
+(- Created responsive UIs and integrated secure role-based access control with Bcrypt & JWT.) Tj
+/F1 11 Tf
+0 -16 Td
+(3. Frontend & Data Analytics Intern - Geeta Technical Hub [June 2024 - July 2024]) Tj
+/F1 9 Tf
+0 -13 Td
+(- Built responsive frontend pages using HTML5, CSS3, modern JavaScript, and Tailwind CSS.) Tj
+0 -12 Td
+(- Designed interactive executive KPI dashboards using Power BI and Microsoft Excel.) Tj
+0 -24 Td
+/F1 14 Tf
+(CERTIFICATIONS & RECOGNITIONS) Tj
+/F1 10 Tf
+0 -15 Td
+(- Internet of Things [IoT] Technical Certification: Hardware, sensor networks, cloud telemetry) Tj
+0 -13 Td
+(- Google Cloud Platform: Fundamentals, Cloud Compute Engine, IAM security policies) Tj
+0 -13 Td
+(- HackerRank Problem Solving: Verified Gold Badges in C++ & Python) Tj
+0 -13 Td
+(- Hackforge 2.0 Hackathon: Finalist in national prototyping sprint) Tj
+0 -22 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+/F1 9 Tf
+0 -14 Td
+(Languages: C, C++, JavaScript [ES6+], Python, SQL) Tj
+0 -13 Td
+(Web Technologies: React.js, Node.js, Express.js, MongoDB, HTML5, CSS3, Tailwind CSS, Bootstrap) Tj
+0 -13 Td
+(Tools & Frameworks: Git, GitHub, VS Code, Postman, JWT, REST APIs, Power BI, Microsoft Excel, IoT) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000117 00000 n 
+0000000257 00000 n 
+0000000350 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+450
+%%EOF
